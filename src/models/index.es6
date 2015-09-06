@@ -1,0 +1,1 @@
+export { Lgtm } from './Lgtm';
